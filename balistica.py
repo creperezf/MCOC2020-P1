@@ -76,7 +76,7 @@ plt.xlabel("X (m)")
 plt.ylabel("Y (m)")
 plt.grid(True)
 plt.legend(["V = 0 m/s", "V = 10 m/s", "V = 20 m/s"])    
-plt.figure()
+plt.savefig("grafica_bala") #plt.figure() si se quiere tener la gráfica en python
 plt.show()
           
 
