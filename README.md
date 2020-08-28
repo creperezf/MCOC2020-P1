@@ -19,7 +19,7 @@
     ![image](https://user-images.githubusercontent.com/69158551/91512047-1657e000-e8af-11ea-9c7f-fad48c49db4e.png)
 
 
-  * Gráfico de historias de tiempo de LaTeX: x(t)x ( t ), LaTeX: y(t)y ( t ) y LaTeX: z(t)z ( t ) para dos órbitas completas:
+  * Gráfico de historias de tiempo de x(t), y(t) y z(t), para dos órbitas completas:
   
     ![Distancia para 2 orbitas](https://user-images.githubusercontent.com/69158551/91511158-11922c80-e8ad-11ea-886f-c4d67bf220ae.png)
     
