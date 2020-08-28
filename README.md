@@ -4,7 +4,9 @@
 
 #Entrega 2:
     * Gráfico de orbita del satelite:
+    
     ![Distancia para 2 orbitas](https://user-images.githubusercontent.com/69158551/91511158-11922c80-e8ad-11ea-886f-c4d67bf220ae.png)
+    
     Como se puede ver en el gráfico, para que el satelite tenga una orbita perfecta a 700 km de la tierra este tiene que ir a un velocidad v(t) igual a 7000 m/s.
     En caso de que el satelite fuese a una velocidad de 10000 m/s se vería así:
     
