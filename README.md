@@ -26,3 +26,6 @@
   * Gráfico de distancia al centro de la tierra del satélite vs. el tiempo:
 
     ![r (t) para 2 orbitas](https://user-images.githubusercontent.com/69158551/91511154-10f99600-e8ad-11ea-967f-0b7fe94c3292.png)
+    
+    Se pue ver que las cumbres del gráfico, al estar por sobre las lineas limites muestran que no topa con la atmosfera, como ejemplo de que pase lo contrario se puede ver lo siguiente con una velocidad de 5000 m/s.
+    
