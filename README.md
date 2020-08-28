@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/69158551/91098577-b6073b00-e62f-11ea-9630-537056b81932.png)
 
 #  Entrega 2:
-      *  Gráfico de orbita del satelite:
+  * Gráfico de orbita del satelite:
     
 ![grafica_satelite](https://user-images.githubusercontent.com/69158551/91511160-122ac300-e8ad-11ea-8f08-ef4a877b73f2.png)
 
