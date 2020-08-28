@@ -73,7 +73,7 @@ x=sol[:,0:3]
 
 pos_final = sp.array([x_f,y_f,z_f,Vx_f,Vy_f,Vz_f])- sol[-1]
 
-print ("Intervalo = 1 dia, y 2 horas")
+print ("Intervalo = 1 dia y 2 horas")
 print(f"Intervalo en segundos = {deltaT} s")
 for el in pos_final:
     print(el, "m")
