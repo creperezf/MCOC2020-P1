@@ -21,8 +21,8 @@
 
   * Gráfico de historias de tiempo de LaTeX: x(t)x ( t ), LaTeX: y(t)y ( t ) y LaTeX: z(t)z ( t ) para dos órbitas completas:
   
-    ![r (t) para 2 orbitas](https://user-images.githubusercontent.com/69158551/91511154-10f99600-e8ad-11ea-967f-0b7fe94c3292.png)
+    ![Distancia para 2 orbitas](https://user-images.githubusercontent.com/69158551/91511158-11922c80-e8ad-11ea-886f-c4d67bf220ae.png)
     
   * Gráfico de distancia al centro de la tierra del satélite vs. el tiempo:
 
-    ![Distancia para 2 orbitas](https://user-images.githubusercontent.com/69158551/91511158-11922c80-e8ad-11ea-886f-c4d67bf220ae.png)
+    ![r (t) para 2 orbitas](https://user-images.githubusercontent.com/69158551/91511154-10f99600-e8ad-11ea-967f-0b7fe94c3292.png)
