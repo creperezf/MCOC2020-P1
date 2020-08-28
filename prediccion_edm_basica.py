@@ -81,6 +81,11 @@ for el in pos_final:
 print ("Según x, y, z, Vx, Vy, Vz respectivamente")
 
 
+norma = (x_f**2+y_f**2+z_f**2)**(1/2)
+norma2 = (sol[-1,0]**2+sol[-1,1]**2+sol[-1,2]**2)**(1/2)
+dif = norma-norma2
+
+print (f"La norma es: {dif}, m")
 
 
 
