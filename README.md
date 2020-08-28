@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/69158551/91098577-b6073b00-e62f-11ea-9630-537056b81932.png)
 
 #Entrega 2:
-    * Gráfico de orbita del satelite:
+    * Gráfico de orbita del satelite
     
     ![Distancia para 2 orbitas](https://user-images.githubusercontent.com/69158551/91511158-11922c80-e8ad-11ea-886f-c4d67bf220ae.png)
     
