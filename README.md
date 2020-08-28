@@ -16,7 +16,7 @@
 
     y para 5000 m/s:
 
-    ![image](https://user-images.githubusercontent.com/69158551/91511707-5a96b080-e8ae-11ea-8461-2e1e98e7912f.png)
+    ![image](https://user-images.githubusercontent.com/69158551/91512047-1657e000-e8af-11ea-9c7f-fad48c49db4e.png)
 
 
   * Gráfico de historias de tiempo de LaTeX: x(t)x ( t ), LaTeX: y(t)y ( t ) y LaTeX: z(t)z ( t ) para dos órbitas completas:
