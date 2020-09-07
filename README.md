@@ -32,4 +32,13 @@
     ![image](https://user-images.githubusercontent.com/69158551/91518057-4908d500-e8bd-11ea-9b37-1f37a7ad2c1f.png)
     
 # Entrega 5
-  * 1.- 
+  * 1.- ![Gráfica_1_sin_perfeccionar](https://user-images.githubusercontent.com/69158551/92348322-33f42900-f0a9-11ea-9bb6-affc2bc4b6fc.png)
+![Gráfica_2_con_perfeccionar](https://user-images.githubusercontent.com/69158551/92348330-38b8dd00-f0a9-11ea-889f-10e23fbdf920.png)
+
+  * 2.- ![Gráfica_4_comparación](https://user-images.githubusercontent.com/69158551/92348337-3e162780-f0a9-11ea-959d-aec7387f6fd3.png)
+  La diferencia de la deriba de odeint y eulerint es bastante grande ya que al ser tan pocas subdivisiones los resultados obtenidos son completamente diferentes. Se demora bastante poco en ambos (odeint y eulerint) correr mi programa por lo que se puede aumentar las subdivisiones.
+  
+  * 3.- 
+  La gráfica muestra solamente hasta 300 subdivisiones ya que el programa se demora bastante en calcularlo, 
+  
+  * 4.- ![Gráfica_3_comparación](https://user-images.githubusercontent.com/69158551/92348339-3f475480-f0a9-11ea-812a-e4607331a697.png)
