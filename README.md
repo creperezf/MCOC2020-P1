@@ -43,7 +43,7 @@
   * 2.- 
   ![Gráfica_4_comparación](https://user-images.githubusercontent.com/69158551/92348337-3e162780-f0a9-11ea-959d-aec7387f6fd3.png)
   
-  La diferencia de la deriba de odeint y eulerint es bastante grande ya que al ser tan pocas subdivisiones los resultados obtenidos son completamente diferentes. Se demora bastante poco en ambos (odeint y eulerint) correr mi programa por lo que se puede aumentar las subdivisiones.
+  La diferencia de la deriba de odeint y eulerint es bastante grande ya que al ser tan pocas subdivisiones los resultados obtenidos son completamente diferentes. Se demora bastante poco en ambos(3.0324302000080934 s) (odeint y eulerint), correr mi programa por lo que se puede aumentar las subdivisiones.
   
   * 3.- 
   La gráfica muestra solamente hasta 300 subdivisiones ya que el programa se demora bastante en calcularlo, 
