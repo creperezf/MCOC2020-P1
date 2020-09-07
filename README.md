@@ -50,7 +50,9 @@
 
   La gráfica muestra solamente hasta 180 subdivisiones ya que el programa se demora bastante en calcularlo (176.81748230000085 s), por lo que el margen de error aun no es 1%, pero se acerca cada vez mas.
   
-  * 4.- 
+  * 4.-
+  ![image](https://user-images.githubusercontent.com/69158551/92350433-74ef3c00-f0af-11ea-89df-5a6c32759489.png)
+
   
   
 
