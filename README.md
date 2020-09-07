@@ -45,7 +45,12 @@
   
   La diferencia de la deriba de odeint y eulerint es bastante grande ya que al ser tan pocas subdivisiones los resultados obtenidos son completamente diferentes. Se demora bastante poco en ambos(3.0324302000080934 s) (odeint y eulerint), correr mi programa por lo que se puede aumentar las subdivisiones.
   
-  * 3.- 
-  La gráfica muestra solamente hasta 300 subdivisiones ya que el programa se demora bastante en calcularlo, 
+  * 3.-
+  ![image](https://user-images.githubusercontent.com/69158551/92349837-9cdda000-f0ad-11ea-8801-3790eb4d4f02.png)
+
+  La gráfica muestra solamente hasta 180 subdivisiones ya que el programa se demora bastante en calcularlo (176.81748230000085 s), por lo que el margen de error aun no es 1%, pero se acerca cada vez mas.
   
-  * 4.- ![Gráfica_3_comparación](https://user-images.githubusercontent.com/69158551/92348339-3f475480-f0a9-11ea-812a-e4607331a697.png)
+  * 4.- 
+  
+  
+
